@@ -1,0 +1,14 @@
+org_name = "kanishkamw"
+version = "0.1.0"
+lockfile_version = "1.0.0"
+ballerina_version = "1.2.8"
+
+[[imports."kanishkamw/calapp:0.1.0"]]
+org_name = "kanishkamw"
+name = "calparser"
+version = "0.1.0"
+
+[[imports."kanishkamw/calapp:0.1.0"]]
+org_name = "kanishkamw"
+name = "calfunctions"
+version = "0.1.0"
